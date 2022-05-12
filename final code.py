@@ -36,6 +36,8 @@ step_advance = 0  # to count steps
 step = 0
 
 # sixteen steps in a sequence
+#HERE IS WHERE THE BEAT SEQUENCE IS PROGRAMMED 
+
 step_note = [2, 2, 2, 2, 1, 0, 2, 2, 2, 2, 2, 0, 1, 0, 2, 2]
 
 # step pixels
